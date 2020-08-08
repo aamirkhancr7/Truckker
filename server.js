@@ -26,7 +26,7 @@ app.post('/api/form', (req, res) => {
             port: 25,
             auth: {
                 user: 'razer0070@rediffmail.com',
-                pass: 'Qwerty123!'
+                pass: 'Qwerty123@'
             }
         });
 
